@@ -1,0 +1,15 @@
+{
+  "client_id": "https://namtq-dev.github.io/astra-atlassian-rovo-cimd-local/atlassian-rovo.json",
+  "client_name": "Liam Astra Atlassian Rovo",
+  "redirect_uris": [
+    "http://localhost:3002/oauth/callback/atlassian-rovo"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
