@@ -1,5 +1,5 @@
 {
-  "client_id": "https://namtq-dev.github.io/astra-atlassian-rovo-cimd-local/atlassian-rovo.json",
+  "client_id": "https://namtq-dev.github.io/liam-astra-atlassian-rovo-cimd-local/atlassian-rovo.json",
   "client_name": "Liam Astra Atlassian Rovo",
   "redirect_uris": [
     "http://localhost:3002/oauth/callback/atlassian-rovo"
