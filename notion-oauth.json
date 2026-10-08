@@ -1,0 +1,15 @@
+{
+  "client_id": "https://namtq-dev.github.io/liam-astra-cimd-local/notion-oauth.json",
+  "client_name": "Astra Notion (local dev)",
+  "redirect_uris": [
+    "http://localhost:3002/oauth/callback/notion-oauth"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
